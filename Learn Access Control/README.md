@@ -1,5 +1,4 @@
-Learning Solidity Security Project
+## Access Control
 
-How to set proper access control mechanisam in place 
-and make contract more secure.
+Learn how to set proper access control mechanisam in place to make contract more secure.
 
